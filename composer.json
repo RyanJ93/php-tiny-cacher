@@ -15,7 +15,7 @@
     },
     "require-dev": {
         "php": ">=7.0"
-    }
+    },
     "keywords": [
 		"cache",
 		"caching",
